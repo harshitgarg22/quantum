@@ -1,3 +1,5 @@
 __pycache__/
 *.pyc
 .deepnote/
+.ipynb_checkpoints/
+.qiskit
